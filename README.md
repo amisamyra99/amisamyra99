@@ -1,6 +1,95 @@
-## Hi there 👋
+```markdown
+# Ami Samyra Ouedraogo - Data Science Engineer
 
-<!--
+👋 Hello! I'm a highly motivated and detail-oriented Data Science Engineer with a passion for leveraging data to build intelligent solutions and solve real-world problems. I'm proficient in a variety of programming languages, machine learning techniques, and data analysis tools, and I'm always eager to learn and explore new technologies.
+
+## Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/ouedraogo-ami-samyra/](linkedin.com/in/ouedraogo-ami-samyra/)
+* **Email:** ouedraogoamisamyra@gmail.com
+* **Location:** Schmalkalden, Germany
+* **Phone:** +49 15214588348
+
+## Summary
+
+I possess a strong foundation in computer science principles and a proven ability to quickly adapt and apply technical skills to diverse challenges. My experience spans machine learning, data analysis, software development, and IT support, enabling me to approach projects holistically.  I am fluent in French and English, with basic German proficiency.
+
+## Technical Skills
+
+* **Programming Languages:** Java, Python, R, C/C++, Vue.js, PHP, HTML/CSS
+* **Databases:** MySQL, Oracle, MongoDB
+* **Machine Learning:** TensorFlow, Keras, PyTorch, Scikit-learn
+* **Cloud Computing:** Azure App Services, Container Registries
+* **Frameworks:** Symfony, Django, Spring Boot, Quasar, Langchain
+* **Tools:** Git, Docker, Jupyter Notebook, PowerBI, Excel
+
+
+## Experience
+
+**Workstudent, Intershop GmbH, Schmalkalden, Germany (Nov 2023 - Present)**
+
+* Engineered two backup solutions (commercial and open-source), presented proof-of-concept, and gathered feedback.  Utilized Botpress, LLama, GPT-3, Hugging Face Embeddings, and Langchain.
+* Developed and deployed an internal knowledge access chatbot using OpenAI and Langchain, achieving 92% query accuracy and deployed on Azure Cloud. This led to a significant improvement in internal knowledge sharing.
+
+
+**Machine Learning Intern, Elevait GmbH, Germany (Oct 2022 - Apr 2023)**
+
+* Developed an automated information extraction algorithm for invoice images, improving extraction accuracy by 80% through research and implementation of adaptive layout recognition techniques.
+
+
+## Education
+
+**Bachelor, International Business and Economics, Hochschule Schmalkalden, Germany (2022 - Present)**
+
+* Majors: Statistics, Marketing, Finance & Investment, Intercultural Management, Micro/Macroeconomics, Financial/Cost Accounting, Digital Business.
+* Electives: Corporate Finance, International Trade Theory and Policy, Transports and Economics, Data Science.
+
+**Exchange Semester, Computer Science Engineering, Hochschule Schmalkalden, Germany (2021 - 2022)**
+
+* Focus: Computational Intelligence, Image Processing, Project Management, German, Metamodeling.
+
+**Master in Computer Science, Private Higher School of Computer Engineering, Tunis (2018 - 2023)**
+
+* Focus: Big Data Analysis, Machine Learning, Deep Learning, Service-Oriented Architecture, Information Systems Architecture, Database Administration, IT Security, Advanced Operating Systems, Python.
+
+
+## Projects
+
+**Financial Statement Recognition and Credit Modeling (Esprit, Tunis)**
+
+* Developed an automated credit-scoring system using web scraping, text mining, NLP, and machine learning, improving loan decision-making efficiency and accuracy.  Deployed using Django.
+* [Project Link](https://github.com/amisamyra99/Financial-statement-recognition-and-credit-risk-management)
+
+**Mobile & Web App for Non-Profit (Esprit, Tunis)**
+
+* Developed a cross-platform application ("Handshake") using Java and Symphony to connect non-profit organizations and volunteers. Implemented user authentication, RBAC, and a user-friendly interface.
+* [Project Link](https://github.com/esprit-3A1-SIXVIP)
+
+
+##  Looking Forward
+
+I'm actively seeking challenging Data Science Engineer roles where I can contribute my skills and passion to innovative projects. I'm particularly interested in [mention specific areas of interest, e.g., NLP, Computer Vision, MLOps].  I am a quick learner, a team player, and eager to make a meaningful impact.  Please feel free to reach out to connect!
+```
+
+
+Key improvements for recruiters:
+
+* **Concise and focused summary:** Highlights key skills and experience relevant to data science roles.
+* **Quantifiable achievements:**  Includes specific metrics to demonstrate impact (e.g., 80% accuracy improvement, 92% query accuracy).
+* **Clear project descriptions:** Provides context and highlights individual contributions within team projects.
+* **Direct links to projects:** Makes it easy for recruiters to review code and assess technical skills.
+* **Call to action:** Encourages recruiters to connect and discuss potential opportunities.
+* **Professional tone and formatting:** Easy to read and scan, with clear headings and bullet points.
+* **Keywords:** Incorporates relevant keywords for improved searchability (e.g., Machine Learning, Deep Learning, NLP, Computer Vision, Cloud Computing).
+
+
+Remember to populate the bracketed placeholders (e.g., "[mention specific areas of interest]") with your own information.  Also, ensure the project links are accurate and the repositories are well-maintained.  Good luck!
+
+
+
+<!--## Hi there 👋
+
+
 **amisamyra99/amisamyra99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +102,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <details>
   <summary><b>Skills</b></summary>
 
@@ -38,3 +127,4 @@ Here are some ideas to get you started:
 [![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 
 </details>
+-->
